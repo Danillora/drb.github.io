@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: " "
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+
+Publications
+======
+* Males da Exclusão: O SANAR e o combate a doenças negligenciadas em Pernambuco. SILVA JÚNIOR, J. A.; AVELINO, Breno; BATISTA, Danillo Rafael (2022).
+  * Meta: Avaliação, v. 14, p. 25, 2022.
+* Eleições, Pandemia e Protocoloes: Adaptações institucionais para as eleições presidenciais da Bolívia e do Equador em tempos de covid-19. BATISTA, Danillo; PIRES DE LIMA, Bruna (2021)
+  *  Revista Espirales, v. Dossiê, p. Espirales, 2021.  
+* As Universidades Chinesas e as Relações Internacionais. COSTA LIMA, Marcos; BARBOSA, Victor; ALBUQUERQUE, Tatiane; BATISTA, Danillo Rafael (2020)
+  * Revista Brasileira de Políticas Públicas e Internacionais, v. 5, p. 5-24, 2020.
+* Análise de política externa: Brasil e a integração regional no âmbito do Mercosul. BATISTA, Danillo Rafael (2019)
+  * VIII Seminário de Ciência Política e Relações Internacionais da UFPE.
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
