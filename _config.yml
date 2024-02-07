@@ -95,26 +95,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Danillora"
+  github           : "/Danillora"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin.com/in/danillo-rafael"
-  orcid            : "https://orcid.org/0000-0002-4696-6682"
+  linkedin         : "/danillo-rafael"
+  orcid            : "/0000-0002-4696-6682"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/danilloraf"
+  twitter          : "/danilloraf"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  lattes           : "http://lattes.cnpq.br/9088090859951111"
+  lattes           : "/9088090859951111"
 
 
 # Reading Files
