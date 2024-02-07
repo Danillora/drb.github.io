@@ -85,7 +85,6 @@ author:
   bio              : "Political Science PhD student at Federal University of Pernambuco (UFPE)"
   location         : "Recife - PE, Brazil"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "danillo.rafael@ufpe.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,14 +95,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github./Danillora"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "linkedin.com/in/danillo-rafael"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4696-6682"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
