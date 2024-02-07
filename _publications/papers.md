@@ -1,5 +1,4 @@
 ---
-title: "TESTE"
 collection: publications
 
 publications:
