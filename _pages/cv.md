@@ -72,7 +72,15 @@ Languages
 * Spanish (intermediate)
 * Italian (basic)
   
-Additional Information
+Additional Courses and Informations
 ======
 * Collaborating member of the Métodos em Pauta (Methods on the agenda) initiative
   * Academic initiative that seeks to contribute to the debate on causal inference in Political Science and related areas.
+
+* Causality and Experiments: Experimental Political Science
+  * IPSA-USP Summer School 2024
+  * Prof. Soledad Prillaman (Stanford University)
+
+* Survey Methods: Survey Research Analysis
+  * IPSA-USP Summer School 2024
+  * Prof. Soledad Prillaman 
