@@ -1,6 +1,6 @@
 collection: publications
 
-publications:
+/:
   - title: "Males da Exclusão: O SANAR e o combate a doenças negligenciadas em Pernambuco. SILVA JÚNIOR, J. A.; AVELINO, Breno; BATISTA, Danillo Rafael (2022)."
     meta: "Meta: Avaliação, v. 14, p. 25, 2022."
   - title: "Eleições, Pandemia e Protocolos: Adaptações institucionais para as eleições presidenciais da Bolívia e do Equador em tempos de covid-19. BATISTA, Danillo; PIRES DE LIMA, Bruna (2021)"
