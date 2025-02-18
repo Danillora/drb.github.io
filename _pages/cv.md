@@ -80,7 +80,7 @@ redirect_from:
   Fundamentals of Regression Analysis
    Integrating Case Studies and Regression
    Advanced Issues in Multi-Method Research: Integrating Case Studies and Contemporary Methods for Causal Inference
-  *Prof. Jaye Seawright (Northwestern University)*
+  *Prof. Jaye Seawright (Northwestern University)
 
 
 *IPSA/University of São Paulo (USP) - Summer School
@@ -89,7 +89,7 @@ redirect_from:
   - *Description: Track Causality and Experiments:
     - Experiments in Political Science
     - Survey Research Analysis
-  - *Prof. Soledad Prillaman (Stanford University)*
+  - *Prof. Soledad Prillaman (Stanford University)
 
 
 - *PhD
