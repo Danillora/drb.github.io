@@ -18,32 +18,43 @@ Education
 
 Work experience
 ======
-* Researcher and Data Analyst
-  * Observatory of Cultural Indicators at Pernambuco Secretary of Culture (2022.2 - at the moment)
-    
-* Internship at the Italian Consulate in Recife
-  * Management assistant job in the Citizenship sector (2019.1 - 2019.2)
+Current Position
+Institution: Capes - UFPE
+Period: 2023 - Present
+Description: PhD Scholarship Recipient.
 
-* Research Assistant at Political Science Department 
-  * Federal University of Pernambuco  
-  * Research Assistant to Professor Marcos Costa Lima (2019.1 - 2020.2)
-      
+Current Position
+Institution: Federation of Industries of the State of Minas Gerais (FIEMG)
+Period: 2023 - Present
+Description: Cultural Policy Consultant.
+
+Current Position
+Institution: Secretariat of Culture of Pernambuco
+Period: 2022 - Present
+Description: Researcher and Data Analyst at the Cultural Indicators Observatory.
+
+Previous Position
+Institution: Capes - UFPE
+Period: 2021 - 2023
+Description: Master's Scholarship Recipient.
+
+Previous Position
+Institution: Consulate of Italy in Recife
+Period: 2019 - 2019
+Description: Intern in International Relations at the Citizenship Department.
+
 Skills
 ======
-* R Language - intermediary
-* Python - Begginer
-* STATA - Begginer
+*Linguagens de Programação:* R  
+*Softwares:* Pacote Office, LaTeX, SPSS  
+*Idiomas:* Português (nativo), Inglês (fluente) 
 
 Publications
 ======
-* Males da Exclusão: O SANAR e o combate a doenças negligenciadas em Pernambuco. SILVA JÚNIOR, J. A.; AVELINO, Breno; BATISTA, Danillo Rafael (2022).
-  * Meta: Avaliação, v. 14, p. 25, 2022.
-* Eleições, Pandemia e Protocoloes: Adaptações institucionais para as eleições presidenciais da Bolívia e do Equador em tempos de covid-19. BATISTA, Danillo; PIRES DE LIMA, Bruna (2021)
-  *  Revista Espirales, v. Dossiê, p. Espirales, 2021.  
-* As Universidades Chinesas e as Relações Internacionais. COSTA LIMA, Marcos; BARBOSA, Victor; ALBUQUERQUE, Tatiane; BATISTA, Danillo Rafael (2020)
-  * Revista Brasileira de Políticas Públicas e Internacionais, v. 5, p. 5-24, 2020.
-* Análise de política externa: Brasil e a integração regional no âmbito do Mercosul. BATISTA, Danillo Rafael (2019)
-  * VIII Seminário de Ciência Política e Relações Internacionais da UFPE.
+1. BATISTA, Danillo Rafael. (2024). *When Electoral Integrity is at Risk: Democracy, Fraud, and Institutions in Latin America*. Revista Uruguaya de Ciencia Política, Volume(33). [DOI](https://doi.org/10.26851/RUCP.33.10)
+2. Da Silva, JA; Da Silva, BA; Batista, DR. (2022). *Males da exclusão: o SANAR e o combate a doenças negligenciadas em Pernambuco*. Revista Meta: Avaliação, Volume(45). [DOI](http://dx.doi.org/10.22347/2175-2753v14i45.3830)
+3. BATISTA, Danillo Rafael, LIMA, Bruna Pires (2021). *Eleições, Pandemia e Protocolos: Adaptações Institucionais para as eleições presicendiais da Bolívia e do Equador em tempos de Covid-19*. Revista Espirales, Volume(5). [DOI](.)
+4. COSTA LIMA, Marcos; BARBOSA, Victor; ALBUQUERQUE, Tatiane; BATISTA Danillo Rafael. (2020). *As Universidades Chinesas e as Relações Internacionais*. Revista Brasileira de Políticas Públicas e Internacionais - RPPI, Volume(5). [DOI](https://doi.org/10.22478/ufpb.2525-5584.2020v5n3.55362)
   
 Research Groups Enrolled
 ======
@@ -57,6 +68,10 @@ Research Groups Enrolled
   
 Teaching
 ======
+* Teaching Assistant in the Multivariate Data Analysis
+  * Under the supervision of Professor Flávio Rezende
+  * Federal University of Pernambuco (UFPE)
+  
 * Teacher Assistant in International Relations Theory I
   * Under the guidance of Nayanna Sabiá
   * Estácio Recife University
@@ -64,23 +79,47 @@ Teaching
 * Teacher Assistant in International Relations Theory II
   * Under the guidance of Thallita Fernanda
   * Estácio Recife University
-  
+
 Languages
 ======
 * Portuguese (native)
 * English (advanced)
 * Spanish (intermediate)
 * Italian (basic)
+
+Scholarships
+======
+*IPSA/University of São Paulo (USP) - Summer School
+*Funding Agency: Brazilian Political Science Association (ABCP)
+*Year: 2025
+*Description: Track Multi-Methods:
+*Fundamentals of Regression Analysis
+*Integrating Case Studies and Regression
+*Advanced Issues in Multi-Method Research: Integrating Case Studies and Contemporary Methods for Causal Inference
+* Prof. Jaye Seawright (Northwestern University)
+
+*IPSA/University of São Paulo (USP) - Summer School
+*Funding Agency: Brazilian Political Science Association (ABCP)
+*Year: 2024
+*Description: Track Causality and Experiments:
+*Experiments in Political Science
+*Survey Research Analysis
+* Prof. Soledad Prillaman (Stanford University)
+
+*PhD
+*Funding Agency: Coordination for the Improvement of Higher Education Personnel (CAPES)
+*Description: PhD Scholarship
+
+*Master's
+*Funding Agency: Coordination for the Improvement of Higher Education Personnel (CAPES)
+*Description: Master's Scholarship
+
+*Institutional Program for Scientific Initiation Scholarships (PIBIC)
+*Funding Agency: National Council for Scientific and Technological Development (CNPq)
+*Description: Scientific Initiation Scholarship
   
 Additional Courses and Informations
 ======
 * Collaborating member of the Métodos em Pauta (Methods on the agenda) initiative
   * Academic initiative that seeks to contribute to the debate on causal inference in Political Science and related areas.
 
-* Causality and Experiments: Experimental Political Science
-  * IPSA-USP Summer School 2024
-  * Prof. Soledad Prillaman (Stanford University)
-
-* Survey Methods: Survey Research Analysis
-  * IPSA-USP Summer School 2024
-  * Prof. Soledad Prillaman 
