@@ -47,11 +47,11 @@ redirect_from:
 *Languages:* Portuguese (native), English (fluent)
 
 # Research Groups Enrolled
-- *Epistemology and Method in Comparative Political Science*
+- *Epistemology and Method in Comparative Political Science*  
   Coordinated by Flávio da Cunha Rezende
   Political Science Department (UFPE)
   
-- *Laboratory of Religion and Politics Studies - LABERP*
+- *Laboratory of Religion and Politics Studies - LABERP*  
   Coordinated by Joanildo Burity
   Joaquim Nabuco Foundation
   
