@@ -104,13 +104,13 @@ redirect_from:
 
   
 # Additional Courses and Information
-- Collaborating member of the Métodos em Pauta (Methods on the Agenda) initiative
+- **Collaborating member of the Métodos em Pauta (Methods on the Agenda) initiative**
   - Academic initiative that seeks to contribute to the debate on causal inference in Political Science and related areas.
 
-- Coordinator of the 1st Cultural Census of Pernambuco
+- **Coordinator of the 1st Cultural Census of Pernambuco**
   - Conducting the mapping of cultural producers and cultural spaces through the Cultural Indicators Observatory of SECULT-PE.
  
-- Cultural Projects Analyst
+- **Cultural Projects Analyst**
   - Analyst of cultural projects under the Paulo Gustavo Law (LPG) and the Aldir Blanc National Policy (PNAB).
 
 
