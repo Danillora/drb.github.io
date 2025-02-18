@@ -17,34 +17,34 @@ redirect_from:
 
 # Work experience
 *Current Position
-*Institution: Capes - UFPE  
-*Period: 2023 - Present  
-*Description: PhD Scholarship Recipient.
+- Institution: Capes - UFPE  
+- Period: 2023 - Present  
+- Description: PhD Scholarship Recipient.
 
 *Current Position
-*Institution: Federation of Industries of the State of Minas Gerais (FIEMG)  
-*Period: 2023 - Present  
-*Description: Cultural Policy Consultant.
+- Institution: Federation of Industries of the State of Minas Gerais (FIEMG)  
+- Period: 2023 - Present  
+- Description: Cultural Policy Consultant.
 
 *Current Position
-*Institution: Secretariat of Culture of Pernambuco  
-*Period: 2022 - Present  
-*Description: Researcher and Data Analyst at the Cultural Indicators Observatory.
+- Institution: Secretariat of Culture of Pernambuco  
+- Period: 2022 - Present  
+- Description: Researcher and Data Analyst at the Cultural Indicators Observatory.
 
 *Previous Position
-*Institution: Capes - UFPE  
-*Period: 2021 - 2023  
-*Description: Master's Scholarship Recipient.
+- Institution: Capes - UFPE  
+- Period: 2021 - 2023  
+- Description: Master's Scholarship Recipient.
 
 *Previous Position
-*Institution: Consulate of Italy in Recife  
-*Period: 2019 - 2019  
-*Description: Intern in International Relations at the Citizenship Department.
+- Institution: Consulate of Italy in Recife  
+- Period: 2019 - 2019  
+- Description: Intern in International Relations at the Citizenship Department.
 
 # Skills
-*Programming Languages: R (intermediate) 
-*Software: Office Package, LaTeX, SPSS  
-*Languages: Portuguese (native), English (fluent)
+- Programming Languages: R (intermediate) 
+- Software: Office Package, LaTeX, SPSS  
+- Languages: Portuguese (native), English (fluent)
 
 # Presentations and Conferences
 - Paper Presentation, Latin America Political Methodology, Montevideo, Uruguay, 2024.
@@ -74,38 +74,34 @@ redirect_from:
 
 # Scholarships
 *IPSA/University of São Paulo (USP) - Summer School
-  *Funding Agency: Brazilian Political Science Association (ABCP)
-  *Year: 2025
-  *Description: Track Multi-Methods:
-  Fundamentals of Regression Analysis
-   Integrating Case Studies and Regression
+ - Funding Agency: Brazilian Political Science Association (ABCP)
+  - Year: 2025
+  - Description: Track Multi-Methods:
+  - Fundamentals of Regression Analysis
+  - Integrating Case Studies and Regression
    Advanced Issues in Multi-Method Research: Integrating Case Studies and Contemporary Methods for Causal Inference
-  *Prof. Jaye Seawright (Northwestern University)
-
+  *Prof. Jaye Seawright (Northwestern University)*
 
 *IPSA/University of São Paulo (USP) - Summer School
-  - *Funding Agency: Brazilian Political Science Association (ABCP)
-  - *Year: 2024
-  - *Description: Track Causality and Experiments:
+  - Funding Agency: Brazilian Political Science Association (ABCP)
+  - Year: 2024
+  - Description: Track Causality and Experiments:
     - Experiments in Political Science
     - Survey Research Analysis
-  - *Prof. Soledad Prillaman (Stanford University)
+  - *Prof. Soledad Prillaman (Stanford University)*
 
 
 - *PhD
-  - *Funding Agency: Coordination for the Improvement of Higher Education Personnel (CAPES)
-  - *Description: PhD Scholarship
+  - Funding Agency: Coordination for the Improvement of Higher Education Personnel (CAPES)
+  - Description: PhD Scholarship
 
+- Master's
+  - Funding Agency: Coordination for the Improvement of Higher Education Personnel (CAPES)
+  - Description: Master's Scholarship
 
-- *Master's
-  - *Funding Agency: Coordination for the Improvement of Higher Education Personnel (CAPES)
-  - *Description: Master's Scholarship
-
-
-- *Institutional Program for Scientific Initiation Scholarships (PIBIC)
-  - *Funding Agency: National Council for Scientific and Technological Development (CNPq)
-  - *Description: Scientific Initiation Scholarship
-
+- Institutional Program for Scientific Initiation Scholarships (PIBIC)
+  - Funding Agency: National Council for Scientific and Technological Development (CNPq)
+  - Description: Scientific Initiation Scholarship
   
 # Additional Courses and Information
 - Collaborating member of the Métodos em Pauta (Methods on the Agenda) initiative**
