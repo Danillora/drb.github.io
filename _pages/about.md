@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in Political Science at Graduate Program in Political Science (PPGCP) at Federal University of Pernambuco (UFPE), Master in PolSci (Democracy and Institutions) through the same program and B.A in International Relations. Have training in Public Policy Evaluation from the School of Innovation and Public Policies (EIPP/FUNDAJ). 
+I’m a PhD student in Political Science at the Graduate Program in Political Science (PPGCP) at the Federal University of Pernambuco (UFPE). I hold a Master’s in Political Science (Democracy and Institutions) from the same program, as well as a B.A. in International Relations. I also have training in Public Policy Evaluation from the School of Innovation and Public Policies (EIPP/FUNDAJ).
 
-My areas of interested are in Public Policy Evaluation, Public Opinion, Evangelicals and Data Analysis. I'm member of the group Epistemology and Method in Comparative Political Science (coordinated by Prof. Flávio Rezende) and Laboratory of Religion and Politics Studies (coordinated by Prof. Joanildo Burity). 
-I'm also collaborator of the Métodos em Pauta initiative (an initiative that seeks to spread the discussion about scientific method and inferential quality in Social Sciences).
+My research interests include Public Policy Evaluation, Public Opinion, Evangelicals, and Data Analysis. I am a member of the Epistemology and Method in Comparative Political Science group (led by Prof. Flávio Rezende) and the Laboratory of Religion and Politics Studies (led by Prof. Joanildo Burity). 
+ 
+Additionally, I collaborate with the Métodos em Pauta initiative, which aims to foster discussions on scientific methodology and inferential quality in Social Sciences.
 
