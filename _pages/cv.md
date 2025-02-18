@@ -78,6 +78,7 @@ redirect_from:
    Advanced Issues in Multi-Method Research: Integrating Case Studies and Contemporary Methods for Causal Inference
   *Prof. Jaye Seawright (Northwestern University)*
 
+
 *IPSA/University of São Paulo (USP) - Summer School*
   - *Funding Agency: Brazilian Political Science Association (ABCP)
   - *Year: 2024
@@ -86,17 +87,21 @@ redirect_from:
     - Survey Research Analysis
   - *Prof. Soledad Prillaman (Stanford University)*
 
+
 - **PhD**
   - **Funding Agency:** Coordination for the Improvement of Higher Education Personnel (CAPES)
   - **Description:** PhD Scholarship
+
 
 - *Master's*
   - *Funding Agency: Coordination for the Improvement of Higher Education Personnel (CAPES)
   - *Description: Master's Scholarship
 
+
 - *Institutional Program for Scientific Initiation Scholarships (PIBIC)
   - *Funding Agency: National Council for Scientific and Technological Development (CNPq)
   - *Description: Scientific Initiation Scholarship
+
   
 # Additional Courses and Information
 - Collaborating member of the Métodos em Pauta (Methods on the Agenda) initiative
