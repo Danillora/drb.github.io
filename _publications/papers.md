@@ -1,9 +1,27 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
-  - title: "Males da Exclusão: O SANAR e o combate a doenças negligenciadas em Pernambuco. SILVA JÚNIOR, J. A.; AVELINO, Breno; BATISTA, Danillo Rafael (2022)."
-    meta: "Meta: Avaliação, v. 14, p. 25, 2022."
-  - title: "Eleições, Pandemia e Protocolos: Adaptações institucionais para as eleições presidenciais da Bolívia e do Equador em tempos de covid-19. BATISTA, Danillo; PIRES DE LIMA, Bruna (2021)"
-    journal: "Revista Espirales, v. Dossiê, p. Espirales, 2021."  
-  - title: "As Universidades Chinesas e as Relações Internacionais. COSTA LIMA, Marcos; BARBOSA, Victor; ALBUQUERQUE, Tatiane; BATISTA, Danillo Rafael (2020)"
-    journal: "Revista Brasileira de Políticas Públicas e Internacionais, v. 5, p. 5-24, 2020."
-  - title: "Análise de política externa: Brasil e a integração regional no âmbito do Mercosul. BATISTA, Danillo Rafael (2019)"
-    event: "VIII Seminário de Ciência Política e Relações Internacionais da UFPE."
+<h2>My Publications</h2>
+
+<ul>
+  <li>
+    <strong>BATISTA, Danillo Rafael. (2024). </strong><i>When Electoral Integrity is at Risk: Democracy, Fraud, and Institutions in Latin America</i>. <i>Revista Uruguaya de Ciencia Política, Volume(33)</i>. 
+    <a href="https://doi.org/10.26851/RUCP.33.10" target="_blank">DOI</a>
+  </li>
+  <li>
+    <strong>Da Silva, JA; Da Silva, BA; Batista, DR. (2022). </strong><i>Males da exclusão: o SANAR e o combate a doenças negligenciadas em Pernambuco</i>. <i>Revista Meta: Avaliação, Volume(45)</i>. 
+    <a href="http://dx.doi.org/10.22347/2175-2753v14i45.3830" target="_blank">DOI</a>
+  </li>
+  <li>
+    <strong>BATISTA, Danillo Rafael, LIMA, Bruna Pires (2021). </strong><i>Eleições, Pandemia e Protocolos: Adaptações Institucionais para as eleições presicendiais da Bolívia e do Equador em tempos de Covid-19</i>. <i>Revista Espirales, Volume(5)</i>. 
+    <a href="#" target="_blank">DOI</a>
+  </li>
+  <li>
+    <strong>COSTA LIMA, Marcos; BARBOSA, Victor; ALBUQUERQUE, Tatiane; BATISTA Danillo Rafael. (2020). </strong><i>As Universidades Chinesas e as Relações Internacionais</i>. <i>Revista Brasileira de Políticas Públicas e Internacionais - RPPI, Volume(5)</i>. 
+    <a href="https://doi.org/10.22478/ufpb.2525-5584.2020v5n3.55362" target="_blank">DOI</a>
+  </li>
+</ul>
