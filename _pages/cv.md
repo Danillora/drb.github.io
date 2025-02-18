@@ -36,7 +36,7 @@ redirect_from:
 - Period: 2021 - 2023  
 - Description: Master's Scholarship Recipient.
 
-***Previous Position**
+**Previous Position**
 - Institution: Consulate of Italy in Recife  
 - Period: 2019 - 2019  
 - Description: Intern in International Relations at the Citizenship Department.
