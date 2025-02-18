@@ -5,11 +5,7 @@ permalink: "publications"
 author_profile: true
 ---
 
-* Males da Exclusão: O SANAR e o combate a doenças negligenciadas em Pernambuco. SILVA JÚNIOR, J. A.; AVELINO, Breno; BATISTA, Danillo Rafael (2022).
-  * Meta: Avaliação, v. 14, p. 25, 2022.
-* Eleições, Pandemia e Protocoloes: Adaptações institucionais para as eleições presidenciais da Bolívia e do Equador em tempos de covid-19. BATISTA, Danillo; PIRES DE LIMA, Bruna (2021)
-  *  Revista Espirales, v. Dossiê, p. Espirales, 2021.  
-* As Universidades Chinesas e as Relações Internacionais. COSTA LIMA, Marcos; BARBOSA, Victor; ALBUQUERQUE, Tatiane; BATISTA, Danillo Rafael (2020)
-  * Revista Brasileira de Políticas Públicas e Internacionais, v. 5, p. 5-24, 2020.
-* Análise de política externa: Brasil e a integração regional no âmbito do Mercosul. BATISTA, Danillo Rafael (2019)
-  * VIII Seminário de Ciência Política e Relações Internacionais da UFPE.
+1. BATISTA, Danillo Rafael. (2024). *When Electoral Integrity is at Risk: Democracy, Fraud, and Institutions in Latin America*. Revista Uruguaya de Ciencia Política, Volume(33). [DOI](https://doi.org/10.26851/RUCP.33.10)
+2. Da Silva, JA; Da Silva, BA; Batista, DR. (2022). *Males da exclusão: o SANAR e o combate a doenças negligenciadas em Pernambuco*. Revista Meta: Avaliação, Volume(45). [DOI](http://dx.doi.org/10.22347/2175-2753v14i45.3830)
+3. BATISTA, Danillo Rafael, LIMA, Bruna Pires (2021). *Eleições, Pandemia e Protocolos: Adaptações Institucionais para as eleições presicendiais da Bolívia e do Equador em tempos de Covid-19*. Revista Espirales, Volume(5). [DOI](.)
+4. COSTA LIMA, Marcos; BARBOSA, Victor; ALBUQUERQUE, Tatiane; BATISTA Danillo Rafael. (2020). *As Universidades Chinesas e as Relações Internacionais*. Revista Brasileira de Políticas Públicas e Internacionais - RPPI, Volume(5). [DOI](https://doi.org/10.22478/ufpb.2525-5584.2020v5n3.55362)
