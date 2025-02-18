@@ -16,27 +16,27 @@ redirect_from:
 * Bachelor's in International Relations, Estácio University Center, 2016 - 2020
 
 # Work experience
-*Current Position*
+*Current Position
 *Institution: Capes - UFPE  
 *Period: 2023 - Present  
 *Description: PhD Scholarship Recipient.
 
-*Current Position*
+*Current Position
 *Institution: Federation of Industries of the State of Minas Gerais (FIEMG)  
 *Period: 2023 - Present  
 *Description: Cultural Policy Consultant.
 
-*Current Position*
+*Current Position
 *Institution: Secretariat of Culture of Pernambuco  
 *Period: 2022 - Present  
 *Description: Researcher and Data Analyst at the Cultural Indicators Observatory.
 
-*Previous Position*
+*Previous Position
 *Institution: Capes - UFPE  
 *Period: 2021 - 2023  
 *Description: Master's Scholarship Recipient.
 
-*Previous Position*
+*Previous Position
 *Institution: Consulate of Italy in Recife  
 *Period: 2019 - 2019  
 *Description: Intern in International Relations at the Citizenship Department.
