@@ -88,7 +88,7 @@ redirect_from:
   - Description: Track in **Causality and Experiments**:
     - Experiments in Political Science;
     - Survey Research Analysis;
-  - *Prof. Soledad Prillaman (Stanford University)*
+    *Prof. Soledad Prillaman (Stanford University)*
 
 
 - **PhD**
