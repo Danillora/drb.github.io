@@ -3,6 +3,8 @@ layout: archive
 title: "Contact"
 permalink: /contact/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 <h2>Contact Me</h2>
