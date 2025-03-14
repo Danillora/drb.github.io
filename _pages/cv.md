@@ -90,7 +90,6 @@ redirect_from:
     - Survey Research Analysis;
     *Prof. Soledad Prillaman (Stanford University)*
 
-
 - **PhD**
   - Funding Agency: Coordination for the Improvement of Higher Education Personnel (CAPES)
   - Description: PhD Scholarship
