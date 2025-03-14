@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Projects"
 permalink: /publications/
 author_profile: true
 ---
@@ -23,5 +23,16 @@ author_profile: true
   <li>
     <strong>COSTA LIMA, Marcos; BARBOSA, Victor; ALBUQUERQUE, Tatiane; BATISTA Danillo Rafael. (2020). </strong><i>As Universidades Chinesas e as Relações Internacionais</i>. <i>Revista Brasileira de Políticas Públicas e Internacionais - RPPI, Volume(5)</i>. 
     <a href="https://doi.org/10.22478/ufpb.2525-5584.2020v5n3.55362" target="_blank">DOI</a>
+  </li>
+</ul>
+
+<h2>Ongoing Research Projects</h2>
+
+<ul>
+  <li>
+    <strong>Religious people's perception of the climate crisis in Brazil:</strong> <i> Ongoing survey experiment on religious people's perception of the climate crisis in Brazil. With Nara Pavão, Agnes Amaral, and Liliane Fagundes.</i>.
+  </li>
+  <li>
+    <strong>Mapping Political Science Research on Religion:</strong> <i>This project aims to map Political Science research on religion and understand the methodological approaches used. With Caio Brandão.</i>.
   </li>
 </ul>
