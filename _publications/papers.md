@@ -30,9 +30,9 @@ author_profile: true
 
 <ul>
   <li>
-    <strong>Religious people's perception of the climate crisis in Brazil:</strong> <i> Ongoing survey experiment on religious people's perception of the climate crisis in Brazil. With Nara Pavão, Agnes Amaral, and Liliane Fagundes.</i>.
+    <strong>Religious people's perception of the climate crisis in Brazil:</strong> <i> Ongoing survey experiment on religious people's perception of the climate crisis in Brazil. With Nara Pavão, Agnes Amaral, and Liliane Fagundes</i>.
   </li>
   <li>
-    <strong>Mapping Political Science Research on Religion:</strong> <i>This project aims to map Political Science research on religion and understand the methodological approaches used. With Caio Brandão.</i>.
+    <strong>Mapping Political Science Research on Religion:</strong> <i>This project aims to map Political Science research on religion and understand the methodological approaches used. With Caio Brandão</i>.
   </li>
 </ul>
