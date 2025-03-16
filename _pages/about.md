@@ -14,3 +14,4 @@ My research interests include Public Policy Evaluation, Public Opinion, Evangeli
  
 Additionally, I collaborate with the Métodos em Pauta initiative, which aims to foster discussions on scientific methodology and inferential quality in Social Sciences.
 
+For further details, you can check my academic résumé on my [Lattes CV](https://lattes.cnpq.br/9088090859951111).
