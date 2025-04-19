@@ -13,3 +13,4 @@ author_profile: true
 Ongoing Research Projects
 1. Religious people's perception of the climate crisis in Brazil: Ongoing survey experiment on religious people's perception of the climate crisis in Brazil. With Nara Pavão, Agnes Amaral, and Liliane Fagundes.
 2. Mapping Political Science Research on Religion: This project aims to map Political Science research on religion and understand the methodological approaches used. With Caio Brandão.
+3. Special Voting Arrangements and Turnout in Pandemic Elections: Ongoing research on the impact of alternative voting procedures on turnout during COVID-19 elections using a Differences-in-Differences design. With Ian Rebouças Batista.
