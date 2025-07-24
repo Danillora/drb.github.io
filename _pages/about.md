@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, strange!"
+title: "Hello and welcome!"
 excerpt: "About me, Danillora"
 author_profile: true
 redirect_from: 
