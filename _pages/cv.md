@@ -110,6 +110,6 @@ redirect_from:
   - Conducting the mapping of cultural producers and cultural spaces through the Cultural Indicators Observatory of SECULT-PE.
  
 - **Cultural Projects Analyst**
-  - Analyst of cultural projects under the Paulo Gustavo Law (LPG) and the Aldir Blanc National Policy (PNAB).
+  - Served as an analyst and evaluator for cultural projects under the Lei Paulo Gustavo (Edital Desenvolve + Cultura - Multilinguagem) and the Política Nacional Aldir Blanc (PNAB). Responsibilities included reviewing and providing technical evaluation for proposals in the following calls: the General Call for Fostering Cultural Initiatives – Safeguarding Popular Cultures, and the General Call for Fostering Cultural Initiatives – Multilanguage.
 
 
