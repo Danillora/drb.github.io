@@ -108,6 +108,8 @@ redirect_from:
 
 - **Coordinator of the 1st Cultural Census of Pernambuco**
   - Conducting the mapping of cultural producers and cultural spaces through the Cultural Indicators Observatory of SECULT-PE.
+
+- Certificate in **Cultural Project Analysis and Evaluation** (Ministry of Culture / Federal Institute of Goiás, 160 hours)
  
 - **Cultural Projects Analyst**
   - Served as an analyst and evaluator for cultural projects under the Lei Paulo Gustavo (Edital Desenvolve + Cultura - Multilinguagem) and the Política Nacional Aldir Blanc (PNAB). Responsibilities included reviewing and providing technical evaluation for proposals in the following calls: the General Call for Fostering Cultural Initiatives – Safeguarding Popular Cultures, and the General Call for Fostering Cultural Initiatives – Multilanguage.
