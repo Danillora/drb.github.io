@@ -22,14 +22,14 @@ redirect_from:
 - Description: PhD Scholarship Recipient.
 
 **Current Position**
-- Institution: Federation of Industries of the State of Minas Gerais (FIEMG)  
-- Period: 2023 - Present  
-- Description: Cultural Policy Consultant.
-
-**Current Position**
 - Institution: Secretariat of Culture of Pernambuco  
 - Period: 2022 - Present  
 - Description: Researcher and Data Analyst at the Cultural Indicators Observatory.
+
+**Previous Position**
+- Institution: Federation of Industries of the State of Minas Gerais (FIEMG)  
+- Period: 2024 - 2025  
+- Description: Cultural Policy Consultant.
 
 **Previous Position**
 - Institution: Capes - UFPE  
@@ -47,6 +47,7 @@ redirect_from:
 - Languages: Portuguese (native), English (fluent)
 
 # Presentations and Conferences
+- Paper Presentation, Latin America Political Methodology, Santiago/Vinã Del Mar, Chile, 2025.
 - Paper Presentation, Latin America Political Methodology, Montevideo, Uruguay, 2024.
 - Paper Presentation, 1st LABERP Seminar, Recife, 2023.
 
@@ -110,6 +111,7 @@ redirect_from:
   - Conducting the mapping of cultural producers and cultural spaces through the Cultural Indicators Observatory of SECULT-PE.
 
 - Certificate in **Cultural Project Analysis and Evaluation** (Ministry of Culture / Federal Institute of Goiás, 160 hours)
+- Certificate in **Cultural Project Management** (Ministry of Culture / Federal Institute of Goiás, 160 hours)
  
 - **Cultural Projects Analyst**
   - Served as an analyst and evaluator for cultural projects under the Lei Paulo Gustavo (Edital Desenvolve + Cultura - Multilinguagem) and the Política Nacional Aldir Blanc (PNAB). Responsibilities included reviewing and providing technical evaluation for proposals in the following calls: the General Call for Fostering Cultural Initiatives – Safeguarding Popular Cultures, and the General Call for Fostering Cultural Initiatives – Multilanguage.
