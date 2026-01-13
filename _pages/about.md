@@ -14,4 +14,4 @@ My research interests include Public Policy Evaluation, Public Opinion, Evangeli
  
 Additionally, I collaborate with the [Métodos em Pauta initiative](https://x.com/metodosempauta), which aims to foster discussions on scientific methodology and inferential quality in Social Sciences. I also run [Brewed Evidence](https://brewed-evidence.quarto.pub/home/), a blog where I write about academic things and other interests. The project is still in its early stages.
 
-For more details, you can check my academic CV (Lattes), repositories, and social networks in the menu on the left side of the page.
+For more details, you can check my academic CV (Lattes), repositories, and social networks in the menu on the left side of the page. :)
