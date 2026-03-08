@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Danillo Rafael"
+title                    : "Danillo Rafael Batista"
 title_separator          : "-"
-name                     : &name "Danillo Rafael"
+name                     : &name "Danillo Rafael Batista"
 description              : &description "PhD candidate in Political Science at Federal University of Pernambuco (UFPE)"
 url                      : https://danillora.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/drb.github.io" # the subpath of your site, e.g. "/blog"
