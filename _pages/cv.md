@@ -42,9 +42,12 @@ redirect_from:
 - Description: Intern in International Relations at the Citizenship Department.
 
 # Skills
-- Programming Languages: R (intermediate) 
+- Programming Languages: R (intermediate), Quarto (Begginer) 
 - Software: Office Package, LaTeX, SPSS  
-- Languages: Portuguese (native), English (fluent)
+- Languages: Portuguese (native), English (fluent), Spanish (intermediate)
+- Technical production: Preparation of technical reports and executive summaries (rmarkdown).
+- Data analysis and econometrics: Econometric methods and analysis of social and administrative datasets (RAIS, CAGED, PNAD, IBGE, DATASUS, SALIC).
+- Interpersonal skills: Strong oral and written communication, active listening, and synthesis skills.
 
 # Presentations and Conferences
 - Paper Presentation, Latin America Political Methodology, Santiago/Vinã Del Mar, Chile, 2025.
@@ -115,5 +118,7 @@ redirect_from:
  
 - **Cultural Projects Analyst**
   - Served as an analyst and evaluator for cultural projects under the Lei Paulo Gustavo (Edital Desenvolve + Cultura - Multilinguagem) and the Política Nacional Aldir Blanc (PNAB). Responsibilities included reviewing and providing technical evaluation for proposals in the following calls: the General Call for Fostering Cultural Initiatives – Safeguarding Popular Cultures, and the General Call for Fostering Cultural Initiatives – Multilanguage.
+
+- **High school exchange program**: Participated in an academic exchange in Colorado, United States, through the *Conexão Mundo - SESI/SENAI* program.
 
 
