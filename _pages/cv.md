@@ -11,7 +11,9 @@ redirect_from:
 
 # Education
 * PhD Candidate in Political Science, Federal University of Pernambuco (UFPE), 2023 - 2027
-* Master’s in Political Science, Federal University of Pernambuco (UFPE), 2021 - 2023
+  - Supervised by Prof. Joanildo Burity
+* Master’s in Political Science, Federal University of Pernambuco (UFPE), 2021 - 20237
+  - Supervised by Prof. Gabriela Tarouco
 * Public Policy Evaluation Training, Joaquim Nabuco Foundation (FUNDAJ), 2020
 * Bachelor's in International Relations, Estácio University Center, 2016 - 2020
 
