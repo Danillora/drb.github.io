@@ -71,7 +71,7 @@ Meus interesses de pesquisa incluem Avaliação de Políticas Públicas, Opiniã
 
 Também colaboro com a <a href="https://x.com/metodosempauta">iniciativa Métodos em Pauta</a>, que visa fomentar discussões sobre metodologia científica e qualidade inferencial nas Ciências Sociais. Além disso, mantenho o <a href="https://brewed-evidence.quarto.pub/home/">Brewed Evidence</a>, um blog onde escrevo sobre temas acadêmicos e outros interesses. O projeto ainda está em seus estágios iniciais.
 
-Para mais detalhes, consulte meu currículo acadêmico (Lattes), repositórios e redes sociais no menu à esquerda da página. :D`,
+Para mais detalhes, consulte meu currículo acadêmico (Lattes), repositórios e redes sociais no menu à esquerda da página.`,
 
     /* ── Publications page ── */
     "pub-title": "Publicações e Projetos",
