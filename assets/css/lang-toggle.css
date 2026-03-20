@@ -1,0 +1,66 @@
+/* ============================================================
+   _sass/lang-toggle.scss  (ou cole no seu custom.css / main.css)
+   Botão de troca de idioma — drb.github.io
+   ============================================================ */
+
+.lang-toggle-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+
+  /* Posicionamento na masthead */
+  position: relative;
+  margin-left: 1rem;
+  vertical-align: middle;
+
+  /* Tipografia */
+  font-family: inherit;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  line-height: 1;
+  color: #fff;
+
+  /* Visual */
+  background: transparent;
+  border: 1.5px solid rgba(255, 255, 255, 0.55);
+  border-radius: 4px;
+  padding: 0.35em 0.75em;
+  cursor: pointer;
+  white-space: nowrap;
+
+  /* Transição suave */
+  transition: background 0.2s ease, border-color 0.2s ease, transform 0.15s ease;
+}
+
+.lang-toggle-btn:hover {
+  background: rgba(255, 255, 255, 0.15);
+  border-color: rgba(255, 255, 255, 0.9);
+}
+
+.lang-toggle-btn:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+}
+
+/* Micro-animação ao clicar */
+.lang-toggle-btn--active {
+  transform: scale(0.93);
+  background: rgba(255, 255, 255, 0.25);
+}
+
+/* ── Versão para masthead escuro (padrão do Academic Pages) ── */
+.masthead .lang-toggle-btn {
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+/* ── Responsivo: tela pequena ── */
+@media (max-width: 768px) {
+  .lang-toggle-btn {
+    font-size: 0.75rem;
+    padding: 0.3em 0.6em;
+    margin-left: 0.5rem;
+  }
+}
