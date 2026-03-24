@@ -6,45 +6,62 @@
 (function () {
   "use strict";
 
+  var STORAGE_KEY = "drb-lang";
+
   // ── Helpers ────────────────────────────────────────────────
   function getLang() {
-    return localStorage.getItem("drb-lang") || "en";
+    return localStorage.getItem(STORAGE_KEY) || "en";
   }
 
   function setLang(lang) {
-    localStorage.setItem("drb-lang", lang);
+    localStorage.setItem(STORAGE_KEY, lang);
   }
 
   function t(key) {
-    const lang = getLang();
-    return (TRANSLATIONS[lang] && TRANSLATIONS[lang][key]) ||
-           (TRANSLATIONS["en"] && TRANSLATIONS["en"][key]) ||
+    var lang = getLang();
+
+    return (window.TRANSLATIONS &&
+            window.TRANSLATIONS[lang] &&
+            window.TRANSLATIONS[lang][key]) ||
+           (window.TRANSLATIONS &&
+            window.TRANSLATIONS["en"] &&
+            window.TRANSLATIONS["en"][key]) ||
            key;
   }
 
   // ── Apply translations to data-i18n elements ──────────────
   function applyTranslations() {
-    const lang = getLang();
+    var lang = getLang();
 
     // Elementos com data-i18n: substitui textContent
     document.querySelectorAll("[data-i18n]").forEach(function (el) {
-      const key = el.getAttribute("data-i18n");
-      const value = t(key);
+      var key = el.getAttribute("data-i18n");
+      var value = t(key);
       if (value) el.textContent = value;
     });
 
-    // Elementos com data-i18n-html: substitui innerHTML (para links, etc.)
+    // Elementos com data-i18n-html: substitui innerHTML
     document.querySelectorAll("[data-i18n-html]").forEach(function (el) {
-      const key = el.getAttribute("data-i18n-html");
-      const value = t(key);
+      var key = el.getAttribute("data-i18n-html");
+      var value = t(key);
       if (value) el.innerHTML = value;
     });
 
-    // Atualiza o botão de idioma
-    const btn = document.getElementById("lang-toggle-btn");
-    if (btn) {
-      btn.textContent = t("lang-button-label");
-      btn.setAttribute("aria-label", lang === "en" ? "Mudar para Português" : "Switch to English");
+    // Atualiza o botão flutuante de idioma
+    var btn = document.getElementById("lang-fab");
+    var flag = document.getElementById("lang-fab-flag");
+    var label = document.getElementById("lang-fab-label");
+
+    if (btn && flag && label) {
+      if (lang === "pt") {
+        flag.textContent = "🇺🇸";
+        label.textContent = "EN";
+        btn.setAttribute("aria-label", "Switch to English");
+      } else {
+        flag.textContent = "🇧🇷";
+        label.textContent = "PT";
+        btn.setAttribute("aria-label", "Mudar para Português");
+      }
     }
 
     // Atualiza o atributo lang do <html>
@@ -52,24 +69,38 @@
   }
 
   // ── Toggle ────────────────────────────────────────────────
-  window.toggleLang = function () {
-    const current = getLang();
-    const next = current === "en" ? "pt" : "en";
+  function toggleLang() {
+    var current = getLang();
+    var next = current === "en" ? "pt" : "en";
     setLang(next);
     applyTranslations();
 
     // Feedback visual no botão
-    const btn = document.getElementById("lang-toggle-btn");
+    var btn = document.getElementById("lang-fab");
     if (btn) {
-      btn.classList.add("lang-btn--active");
-      setTimeout(function () {
-        btn.classList.remove("lang-btn--active");
-      }, 300);
+      btn.classList.add("lang-fab--pulse");
+      btn.addEventListener("animationend", function handleAnimationEnd() {
+        btn.classList.remove("lang-fab--pulse");
+        btn.removeEventListener("animationend", handleAnimationEnd);
+      });
     }
-  };
+  }
 
-  // ── Init ─────────────────────────────────────────────────
+  // ── Init ──────────────────────────────────────────────────
   document.addEventListener("DOMContentLoaded", function () {
     applyTranslations();
+
+    var btn = document.getElementById("lang-fab");
+    if (btn) {
+      btn.addEventListener("click", toggleLang);
+
+      if (!localStorage.getItem(STORAGE_KEY)) {
+        btn.classList.add("lang-fab--pulse");
+        btn.addEventListener("animationend", function handleFirstPulse() {
+          btn.classList.remove("lang-fab--pulse");
+          btn.removeEventListener("animationend", handleFirstPulse);
+        });
+      }
+    }
   });
 })();
