@@ -1,15 +1,4 @@
-<!-- 
-  _includes/lang-toggle.html
-  
-  Botão flutuante de idioma — aparece em TODAS as páginas automaticamente.
-  
-  Como usar: adicione a linha abaixo no final de _layouts/default.html,
-  logo antes de </body>:
-  
-    {% include lang-toggle.html %}
-  
-  Isso é tudo. Nenhum outro arquivo precisa ser alterado.
--->
+<!-- _includes/lang-toggle.html -->
 
 <style>
   #lang-fab {
@@ -17,11 +6,9 @@
     bottom: 2rem;
     right: 2rem;
     z-index: 9999;
-
     display: inline-flex;
     align-items: center;
     gap: 0.4em;
-
     font-family: inherit;
     font-size: 0.78rem;
     font-weight: 700;
@@ -29,14 +16,12 @@
     text-transform: uppercase;
     color: #fff;
     text-decoration: none;
-
     background: #2c3e50;
     border: none;
     border-radius: 50px;
     padding: 0.6em 1.1em;
     cursor: pointer;
     box-shadow: 0 4px 14px rgba(0,0,0,0.25);
-
     transition: background 0.2s ease, transform 0.15s ease, box-shadow 0.2s ease;
   }
 
@@ -66,74 +51,7 @@
   }
 </style>
 
-<button id="lang-fab" onclick="toggleLang()" aria-label="Switch language">
+<button id="lang-fab" type="button" aria-label="Switch language">
   <span class="lang-flag" id="lang-fab-flag">🇧🇷</span>
   <span id="lang-fab-label">PT</span>
 </button>
-
-<script>
-  (function () {
-    var STORAGE_KEY = 'drb-lang';
-
-    function getLang() {
-      return localStorage.getItem(STORAGE_KEY) || 'en';
-    }
-
-    function setLang(lang) {
-      localStorage.setItem(STORAGE_KEY, lang);
-    }
-
-    function t(key) {
-      var lang = getLang();
-      return (window.TRANSLATIONS && window.TRANSLATIONS[lang] && window.TRANSLATIONS[lang][key])
-          || (window.TRANSLATIONS && window.TRANSLATIONS['en'] && window.TRANSLATIONS['en'][key])
-          || key;
-    }
-
-    function applyTranslations() {
-      var lang = getLang();
-
-      document.querySelectorAll('[data-i18n]').forEach(function (el) {
-        var val = t(el.getAttribute('data-i18n'));
-        if (val) el.textContent = val;
-      });
-
-      document.querySelectorAll('[data-i18n-html]').forEach(function (el) {
-        var val = t(el.getAttribute('data-i18n-html'));
-        if (val) el.innerHTML = val;
-      });
-
-      var flag  = document.getElementById('lang-fab-flag');
-      var label = document.getElementById('lang-fab-label');
-      if (lang === 'pt') {
-        flag.textContent  = '🇺🇸';
-        label.textContent = 'EN';
-        document.getElementById('lang-fab').setAttribute('aria-label', 'Switch to English');
-      } else {
-        flag.textContent  = '🇧🇷';
-        label.textContent = 'PT';
-        document.getElementById('lang-fab').setAttribute('aria-label', 'Mudar para Português');
-      }
-
-      document.documentElement.lang = (lang === 'pt') ? 'pt-BR' : 'en';
-    }
-
-    window.toggleLang = function () {
-      var next = getLang() === 'en' ? 'pt' : 'en';
-      setLang(next);
-      applyTranslations();
-    };
-
-    document.addEventListener('DOMContentLoaded', function () {
-      applyTranslations();
-
-      if (!localStorage.getItem(STORAGE_KEY)) {
-        var btn = document.getElementById('lang-fab');
-        btn.classList.add('lang-fab--pulse');
-        btn.addEventListener('animationend', function () {
-          btn.classList.remove('lang-fab--pulse');
-        });
-      }
-    });
-  })();
-</script>
