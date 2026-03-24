@@ -39,3 +39,14 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+.page__content p {
+  text-align: justify;
+  line-height: 1.7;
+  margin-bottom: 1.2em;
+}
+
+.page__content div[data-i18n-html="home-body"] p {
+  text-align: justify;
+  line-height: 1.7;
+  margin-bottom: 1.2em;
+}
