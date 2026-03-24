@@ -17,7 +17,7 @@ window.TRANSLATIONS = {
     "sidebar-follow":   "Follow",
 
     /* ── Home page ── */
-    "home-title": "Hello and welcome!",
+    "home-title": "Hello!",
     "home-body": `
       <p>I'm a PhD student in Political Science at the <a href="https://www.ufpe.br/politica">Graduate Program in Political Science (PPGCP)</a> at the Federal University of Pernambuco (UFPE). I hold a Master's in Political Science (Democracy and Institutions) from the same program, as well as a B.A. in International Relations. I also have training in Public Policy Evaluation from the School of Innovation and Public Policies (EIPP/FUNDAJ).</p>
 
@@ -25,7 +25,7 @@ window.TRANSLATIONS = {
 
       <p>Additionally, I collaborate with the <a href="https://x.com/metodosempauta">Métodos em Pauta initiative</a>, which aims to foster discussions on scientific methodology and inferential quality in Social Sciences. I also run <a href="https://brewed-evidence.quarto.pub/home/">Brewed Evidence</a>, a blog where I write about academic things and other interests. The project is still in its early stages.</p>
 
-      <p>For more details, you can check my academic CV (Lattes), repositories, and social networks in the menu on the left side of the page. :D</p>
+      <p>For more details, you can check my academic CV (Lattes), repositories, and social networks in the menu on the left side of the page.</p>
     `,
 
     /* ── Publications page ── */
