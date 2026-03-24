@@ -3,7 +3,7 @@
 //  Idiomas suportados: en (padrão) | pt
 // ============================================================
 
-const TRANSLATIONS = {
+window.TRANSLATIONS = {
   en: {
     /* ── Navigation ── */
     "nav-home":         "Danillo Rafael Batista",
@@ -48,7 +48,7 @@ For more details, you can check my academic CV (Lattes), repositories, and socia
 
     /* ── Footer ── */
     "footer-powered": "Powered by",
-    "lang-button-label": "🇧🇷 PT",
+    "lang-button-label": "🇧🇷 PT"
   },
 
   pt: {
@@ -95,6 +95,6 @@ Para mais detalhes, consulte meu currículo acadêmico (Lattes), repositórios e
 
     /* ── Footer ── */
     "footer-powered": "Desenvolvido com",
-    "lang-button-label": "🇺🇸 EN",
+    "lang-button-label": "🇺🇸 EN"
   }
 };
