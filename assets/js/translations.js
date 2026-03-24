@@ -66,7 +66,7 @@ window.TRANSLATIONS = {
     "sidebar-follow":   "Seguir",
 
     /* ── Home page ── */
-    "home-title": "Olá, seja bem-vindo(a)!",
+    "home-title": "Olá!",
     "home-body": `
       <p>Sou doutorando em Ciência Política no <a href="https://www.ufpe.br/politica">Programa de Pós-Graduação em Ciência Política (PPGCP)</a> da Universidade Federal de Pernambuco (UFPE). Sou mestre em Ciência Política (Democracia e Instituições) pela mesma instituição e bacharel em Relações Internacionais. Também possuo formação em Avaliação de Políticas Públicas pela Escola de Inovação e Políticas Públicas (EIPP/FUNDAJ).</p>
 
@@ -74,7 +74,7 @@ window.TRANSLATIONS = {
 
       <p>Também colaboro com a <a href="https://x.com/metodosempauta">iniciativa Métodos em Pauta</a>, que visa fomentar discussões sobre metodologia científica e qualidade inferencial nas Ciências Sociais. Além disso, mantenho o <a href="https://brewed-evidence.quarto.pub/home/">Brewed Evidence</a>, um blog onde escrevo sobre temas acadêmicos e outros interesses. O projeto ainda está em seus estágios iniciais.</p>
 
-      <p>Para mais detalhes, consulte meu currículo acadêmico (Lattes), repositórios e redes sociais no menu à esquerda da página. :D</p>
+      <p>Para mais detalhes, consulte meu currículo acadêmico (Lattes), repositórios e redes sociais no menu à esquerda da página.</p>
     `,
 
     /* ── Publications page ── */
