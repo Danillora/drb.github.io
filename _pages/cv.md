@@ -11,104 +11,116 @@ redirect_from:
 
 <h2 data-i18n="cv-education">Education</h2>
 
-* PhD Candidate in Political Science, Federal University of Pernambuco (UFPE), 2023 - 2027
-  + Supervised by Prof. Joanildo Burity
-* Master's in Political Science, Federal University of Pernambuco (UFPE), 2021 - 2023
-  + Supervised by Prof. Gabriela Tarouco
-* Public Policy Evaluation Training, Joaquim Nabuco Foundation (FUNDAJ), 2020
-* Bachelor's in International Relations, Estácio University Center, 2016 - 2020
+* **PhD Candidate in Political Science**, Federal University of Pernambuco (UFPE), 2023 -- 2027
+  + Dissertation: "Divine Mission: Evangelical Identity, Legislative Behavior, and Electoral Bases."
+  + Advisor: Prof. Joanildo Burity. Co-advisor: Prof. Taylor Boas, Boston University
+* **MA in Political Science**, Federal University of Pernambuco (UFPE), 2021 -- 2023
+* **BA in International Relations**, Centro Universitário Estácio, 2016 -- 2020
+
+<h2 data-i18n="cv-visiting">Visiting Research</h2>
+
+* **Visiting PhD Researcher**, Department of Political Science, Boston University
+  + Period: September 2026 -- February 2027
+  + Supervisor: Prof. Taylor Boas
+  + Funding: CAPES/PDSE -- PhD Sandwich Program (Brazilian Ministry of Education)
 
 <h2 data-i18n="cv-work">Work experience</h2>
 
 <strong data-i18n="cv-current-position">Current Position</strong>
 
-* Institution: Capes - UFPE
-* Period: 2023 - Present
-* Description: PhD Scholarship Recipient.
-
-<strong data-i18n="cv-current-position">Current Position</strong>
-
-* Institution: Secretariat of Culture of Pernambuco
-* Period: 2022 - Present
-* Description: Researcher and Data Analyst at the Cultural Indicators Observatory.
+* **Pernambuco State Secretariat of Culture**
+  + Period: 2022 -- 2026
+  + Researcher and Data Analyst at the Cultural Indicators Observatory, responsible for analyzing survey data, producing statistical reports, and supporting evidence-based cultural policy design.
 
 <strong data-i18n="cv-previous-position">Previous Position</strong>
 
-* Institution: Federation of Industries of the State of Minas Gerais (FIEMG)
-* Period: 2024 - 2025
-* Description: Cultural Policy Consultant.
+* **Minas Gerais Federation of Industries (FIEMG)**
+  + Period: 2024 -- 2025
+  + Cultural Policy Consultant at FIEMG, working in partnership with SESI-PE to design and implement cultural programs, conduct data-driven assessments, and support strategic decision-making in cultural policy.
 
 <strong data-i18n="cv-previous-position">Previous Position</strong>
 
-* Institution: Capes - UFPE
-* Period: 2021 - 2023
-* Description: Master's Scholarship Recipient.
-
-<strong data-i18n="cv-previous-position">Previous Position</strong>
-
-* Institution: Consulate of Italy in Recife
-* Period: 2019 - 2019
-* Description: Intern in International Relations at the Citizenship Department.
+* **Italian Consulate in Recife**
+  + Period: 2019
+  + Intern in the Citizenship Section, supporting administrative processing of Italian citizenship applications, including document review, case organization, and assistance in consular service procedures.
 
 <h2 data-i18n="cv-skills">Skills</h2>
 
-* Programming Languages: R (intermediate), Quarto (Beginner)
-* Software: Office Package, LaTeX, SPSS
-* Languages: Portuguese (native), English (fluent), Spanish (intermediate)
-* Technical production: Preparation of technical reports and executive summaries (rmarkdown).
-* Data analysis and econometrics: Econometric methods and analysis of social and administrative datasets (RAIS, CAGED, PNAD, IBGE, DATASUS, SALIC).
-* Interpersonal skills: Strong oral and written communication, active listening, and synthesis skills.
+* **Programming Languages:** R (advanced), Quarto (intermediate)
+* **Software:** MS Office Suite, LaTeX
+* **Languages:** Portuguese (native), English (fluent), Spanish (intermediate)
+* **Data analysis and econometrics:** Econometric methods and analysis of social and administrative datasets (RAIS, CAGED, PNAD, IBGE, DATASUS, SALIC)
 
 <h2 data-i18n="cv-presentations">Presentations and Conferences</h2>
 
-* Paper Presentation, Latin America Political Methodology, Santiago/Viña Del Mar, Chile, 2025.
-* Paper Presentation, Latin America Political Methodology, Montevideo, Uruguay, 2024.
-* Paper Presentation, 1st LABERP Seminar, Recife, 2023.
+* Paper Presentation, Latin American Political Methodology, Santiago / Viña del Mar, Chile, 2025.
+* Paper Presentation, Latin American Political Methodology, Montevideo, Uruguay, 2024.
+* Paper Presentation, 1st LABERP Seminar, Recife, Brazil, 2023.
 
 <h2 data-i18n="cv-groups">Research Groups Enrolled</h2>
 
 * **Epistemology and Method in Comparative Political Science**
-  + Coordinated by Flávio da Cunha Rezende
-  + Political Science Department (UFPE)
-* **Laboratory of Religion and Politics Studies - LABERP**
-  + Coordinated by Joanildo Burity
+  + Coordinated by Prof. Dr. Flávio da Cunha Rezende
+  + Political Science Department, UFPE
+* **Laboratory of Religion and Politics Studies -- LABERP**
+  + Coordinated by Prof. Dr. Joanildo Burity
   + Joaquim Nabuco Foundation
 
 <h2 data-i18n="cv-teaching">Teaching</h2>
 
-* Teaching Assistant in **Multivariate Data Analysis**
-  + Under the supervision of Professor Flávio Rezende
+* Teaching Assistant in **Multivariate Data Analysis** (50h), 2025
+  + Under the supervision of Prof. Flávio da Cunha Rezende
   + Federal University of Pernambuco (UFPE)
-* Teaching Assistant in **International Relations Theory I**
-  + Under the guidance of Nayanna Sabiá
-  + Estácio Recife University
-* Teaching Assistant in **International Relations Theory II**
-  + Under the guidance of Thallita Fernanda
-  + Estácio Recife University
+* Teaching Assistant in **Theory of International Relations I** (50h), 2019
+  + Under the supervision of Prof. Nayanna Sabiá
+  + Estácio University Center
 
 <h2 data-i18n="cv-scholarships">Scholarships</h2>
 
-**IPSA/University of São Paulo (USP) - Summer School**
+* **PDSE -- PhD Sandwich Fellowship**
+  + Funding Agency: Coordination for the Improvement of Higher Education Personnel (CAPES)
+  + Year: 2026 -- 2027
+  + Visiting research at Boston University, Department of Political Science. Host: Prof. Taylor Boas.
 
-* Funding Agency: Brazilian Political Science Association (ABCP)
-* Year: 2025
-* Description: Track in **Mix-Methods Research**: Fundamentals of Regression Analysis; Integrating Case Studies and Regression; Advanced Issues in Multi-Method Research.
+* **IPSA/University of São Paulo (USP) -- Summer School**
+  + Funding Agency: Brazilian Association of Political Science (ABCP)
+  + Year: 2025
 
-**IPSA/University of São Paulo (USP) - Summer School**
+* **IPSA/University of São Paulo (USP) -- Summer School**
+  + Funding Agency: Brazilian Association of Political Science (ABCP)
+  + Year: 2024
 
-* Funding Agency: Brazilian Political Science Association (ABCP)
-* Year: 2024
-* Description: Track in **Causality and Experiments**: Experiments in Political Science; Survey Research Analysis. *Prof. Soledad Prillaman (Stanford University)*
+* **Doctoral Fellowship**
+  + Funding Agency: Coordination for the Improvement of Higher Education Personnel (CAPES)
+  + Year: 2023 -- 2027
 
-* **PhD** — Funding Agency: Coordination for the Improvement of Higher Education Personnel (CAPES). PhD Scholarship.
-* **Master's** — Funding Agency: CAPES. Master's Scholarship.
-* **PIBIC** — Funding Agency: National Council for Scientific and Technological Development (CNPq). Scientific Initiation Scholarship.
+* **Master's Fellowship**
+  + Funding Agency: Coordination for the Improvement of Higher Education Personnel (CAPES)
+  + Year: 2021 -- 2023
+
+* **Undergraduate Research Fellowship (PIBIC)**
+  + Funding Agency: National Council for Scientific and Technological Development (CNPq)
+  + Year: 2018 -- 2020
+  + Department of Political Science, UFPE
+
+* **Conexão Mundo Exchange Program -- SESI/SENAI**
+  + Funding Agency: Federação das Indústrias de Pernambuco (FIEPE)
+  + Year: 2015
+  + Exchange fellowship for English language study, Colorado, USA
 
 <h2 data-i18n="cv-additional">Additional Courses and Information</h2>
 
-* Collaborating member of the **Métodos em Pauta** initiative — academic initiative that seeks to contribute to the debate on causal inference in Political Science and related areas.
-* **Coordinator of the 1st Cultural Census of Pernambuco** — Conducting the mapping of cultural producers and cultural spaces through the Cultural Indicators Observatory of SECULT-PE.
-* Certificate in **Cultural Project Analysis and Evaluation** (Ministry of Culture / Federal Institute of Goiás, 160 hours)
-* Certificate in **Cultural Project Management** (Ministry of Culture / Federal Institute of Goiás, 160 hours)
-* **Cultural Projects Analyst** — Served as an analyst and evaluator for cultural projects under the Lei Paulo Gustavo and the Política Nacional Aldir Blanc (PNAB).
-* **High school exchange program**: Participated in an academic exchange in Colorado, United States, through the *Conexão Mundo - SESI/SENAI* program.
+* **Input–Output Matrix for Cultural Policies** — Federal University of Pernambuco, 2026. Training focused on Leontief input–output matrices, indicators, and analytical frameworks for the evaluation of cultural policies.
+
+* **IPSA/University of São Paulo (USP) -- Summer School (2025)**, Multi-Methods Track:
+  + Fundamentals of Regression Analysis
+  + Integrating Case Studies and Regression
+  + Advanced Issues in Multi-Method Research: Integrating Case Studies and Contemporary Methods for Causal Inference
+
+* **IPSA/University of São Paulo (USP) -- Summer School (2024)**, Experiments and Causal Inference Track:
+  + Experiments in Political Science
+  + Survey Research Analysis
+
+* **Professional Training in Public Policy Evaluation** — Joaquim Nabuco Foundation (FUNDAJ), 2020. Training focused on methods, indicators, and analytical frameworks for the evaluation of public policies.
+
+* Collaborating member of the **Métodos em Pauta** initiative -- academic initiative aimed at contributing to the debate on causal inference in Political Science and related fields.
