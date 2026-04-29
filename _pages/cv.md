@@ -26,19 +26,13 @@ redirect_from:
 
 <h2 data-i18n="cv-work">Work experience</h2>
 
-<strong data-i18n="cv-current-position">Current Position</strong>
-
 * **Pernambuco State Secretariat of Culture**
   + Period: 2022 -- 2026
   + Researcher and Data Analyst at the Cultural Indicators Observatory, responsible for analyzing survey data, producing statistical reports, and supporting evidence-based cultural policy design.
 
-<strong data-i18n="cv-previous-position">Previous Position</strong>
-
 * **Minas Gerais Federation of Industries (FIEMG)**
   + Period: 2024 -- 2025
   + Cultural Policy Consultant at FIEMG, working in partnership with SESI-PE to design and implement cultural programs, conduct data-driven assessments, and support strategic decision-making in cultural policy.
-
-<strong data-i18n="cv-previous-position">Previous Position</strong>
 
 * **Italian Consulate in Recife**
   + Period: 2019
