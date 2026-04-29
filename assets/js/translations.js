@@ -30,7 +30,7 @@ window.TRANSLATIONS = {
 
     /* ── Publications page ── */
     "pub-title": "Publications and Projects",
-    "pub-section-ongoing": "Ongoing Research Projects",
+    "pub-section-ongoing": "Working Papers",
 
     /* ── CV page ── */
     "cv-title": "CV",
@@ -79,7 +79,7 @@ window.TRANSLATIONS = {
 
     /* ── Publications page ── */
     "pub-title": "Publicações e Projetos",
-    "pub-section-ongoing": "Projetos de Pesquisa em Andamento",
+    "pub-section-ongoing": "Working Papers",
 
     /* ── CV page ── */
     "cv-title": "Currículo",
