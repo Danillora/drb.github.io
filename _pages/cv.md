@@ -110,6 +110,8 @@ redirect_from:
 
 <h2 data-i18n="cv-additional">Additional Courses and Information</h2>
 
+* **Coordinator of the 1st Cultural Census of Pernambuco** -- Led the mapping of cultural producers and cultural spaces through the Cultural Indicators Observatory (SECULT-PE).
+
 * **Input–Output Matrix for Cultural Policies** — Federal University of Pernambuco, 2026. Training focused on Leontief input–output matrices, indicators, and analytical frameworks for the evaluation of cultural policies.
 
 * **IPSA/University of São Paulo (USP) -- Summer School (2025)**, Multi-Methods Track:
