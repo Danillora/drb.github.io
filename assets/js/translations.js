@@ -35,6 +35,7 @@ window.TRANSLATIONS = {
     /* ── CV page ── */
     "cv-title": "CV",
     "cv-education": "Education",
+    "cv-visiting": "Visiting Research",
     "cv-work": "Work experience",
     "cv-skills": "Skills",
     "cv-presentations": "Presentations and Conferences",
@@ -84,6 +85,7 @@ window.TRANSLATIONS = {
     /* ── CV page ── */
     "cv-title": "Currículo",
     "cv-education": "Formação Acadêmica",
+    "cv-visiting": "Pesquisa Visitante",
     "cv-work": "Experiência Profissional",
     "cv-skills": "Competências",
     "cv-presentations": "Apresentações e Conferências",
