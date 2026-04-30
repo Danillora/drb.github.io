@@ -42,7 +42,8 @@ window.TRANSLATIONS = {
     "cv-groups": "Research Groups Enrolled",
     "cv-teaching": "Teaching",
     "cv-scholarships": "Scholarships",
-    "cv-additional": "Additional Courses and Information",
+    "cv-additional-formation": "Additional Formation",
+    "cv-additional-info": "Additional Information",
     "cv-current-position": "Current Position",
     "cv-previous-position": "Previous Position",
 
@@ -92,7 +93,8 @@ window.TRANSLATIONS = {
     "cv-groups": "Grupos de Pesquisa",
     "cv-teaching": "Ensino",
     "cv-scholarships": "Bolsas e Financiamentos",
-    "cv-additional": "Cursos e Informações Adicionais",
+    "cv-additional-formation": "Formação Complementar",
+    "cv-additional-info": "Informações Adicionais",
     "cv-current-position": "Cargo Atual",
     "cv-previous-position": "Cargo Anterior",
 

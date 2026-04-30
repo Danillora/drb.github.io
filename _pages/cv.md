@@ -102,9 +102,7 @@ redirect_from:
   + Year: 2015
   + Exchange fellowship for English language study, Colorado, USA
 
-<h2 data-i18n="cv-additional">Additional Courses and Information</h2>
-
-* **Coordinator of the 1st Cultural Census of Pernambuco** -- Led the mapping of cultural producers and cultural spaces through the Cultural Indicators Observatory (SECULT-PE).
+<h2 data-i18n="cv-additional-formation">Additional Formation</h2>
 
 * **Input–Output Matrix for Cultural Policies** — Federal University of Pernambuco, 2026. Training focused on Leontief input–output matrices, indicators, and analytical frameworks for the evaluation of cultural policies.
 
@@ -118,5 +116,9 @@ redirect_from:
   + Survey Research Analysis
 
 * **Professional Training in Public Policy Evaluation** — Joaquim Nabuco Foundation (FUNDAJ), 2020. Training focused on methods, indicators, and analytical frameworks for the evaluation of public policies.
+
+<h2 data-i18n="cv-additional-info">Additional Information</h2>
+
+* **Coordinator of the 1st Cultural Census of Pernambuco** -- Led the mapping of cultural producers and cultural spaces through the Cultural Indicators Observatory (SECULT-PE).
 
 * Collaborating member of the **Métodos em Pauta** initiative -- academic initiative aimed at contributing to the debate on causal inference in Political Science and related fields.
