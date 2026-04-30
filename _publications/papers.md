@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h2>My Publications</h2>
+<h1 data-i18n="pub-title">Publications and Projects</h1>
 
 <ul>
   <li>
@@ -17,8 +17,7 @@ author_profile: true
     <a href="http://dx.doi.org/10.22347/2175-2753v14i45.3830" target="_blank">DOI</a>
   </li>
   <li>
-    <strong>BATISTA, Danillo Rafael, LIMA, Bruna Pires (2021). </strong><i>Eleições, Pandemia e Protocolos: Adaptações Institucionais para as eleições presicendiais da Bolívia e do Equador em tempos de Covid-19</i>. <i>Revista Espirales, Volume(5)</i>. 
-    <a href="#" target="_blank">DOI</a>
+    <strong>BATISTA, Danillo Rafael, LIMA, Bruna Pires (2021). </strong><i>Eleições, Pandemia e Protocolos: Adaptações Institucionais para as eleições presidenciais da Bolívia e do Equador em tempos de Covid-19</i>. <i>Revista Espirales, Volume(5)</i>.
   </li>
   <li>
     <strong>COSTA LIMA, Marcos; BARBOSA, Victor; ALBUQUERQUE, Tatiane; BATISTA Danillo Rafael. (2020). </strong><i>As Universidades Chinesas e as Relações Internacionais</i>. <i>Revista Brasileira de Políticas Públicas e Internacionais - RPPI, Volume(5)</i>. 
@@ -26,7 +25,7 @@ author_profile: true
   </li>
 </ul>
 
-<h2>Ongoing Research Projects</h2>
+<h2 data-i18n="pub-section-ongoing">Working Papers</h2>
 
 <ul>
   <li>
@@ -34,12 +33,11 @@ author_profile: true
     <i>Ongoing survey experiment on religious people's perception of the climate crisis in Brazil. With Nara Pavão, Agnes Amaral, and Liliane Fagundes</i>.
   </li>
   <li>
-    <strong>Mapping Political Science Research on Religion:</strong> 
-    <i>This project aims to map Political Science research on religion and understand the methodological approaches used. With Caio Brandão</i>.
+    <strong>Between State Reform and Local Politics:</strong> 
+    <i>This paper analyzes why state-level education reforms in Pernambuco do not translate uniformly into municipal outcomes, using panel data and two-way fixed effects models</i>.
   </li>
   <li>
     <strong>Special Voting Arrangements and Turnout in Pandemic Elections:</strong> 
     <i>Ongoing research on the impact of alternative voting procedures on turnout during COVID-19 elections using a Differences-in-Differences design. With Ian Rebouças Batista</i>.
   </li>
 </ul>
-
