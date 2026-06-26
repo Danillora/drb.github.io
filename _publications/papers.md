@@ -9,6 +9,10 @@ author_profile: true
 
 <ul>
   <li>
+    <strong>BATISTA, Danillo Rafael. (2026). </strong><i>Do formal rules matter? De facto autonomy and Electoral Integrity in comparative perspective</i>. <i>Revista Sul-Americana de Ciência Política, 12(1)</i>. 
+    <a href="https://doi.org/10.15210/rsulacp.v12i1.30310" target="_blank">DOI</a>
+  </li>
+  <li>
     <strong>BATISTA, Danillo Rafael. (2024). </strong><i>When Electoral Integrity is at Risk: Democracy, Fraud, and Institutions in Latin America</i>. <i>Revista Uruguaya de Ciencia Política, Volume(33)</i>. 
     <a href="https://doi.org/10.26851/RUCP.33.10" target="_blank">DOI</a>
   </li>
@@ -18,6 +22,7 @@ author_profile: true
   </li>
   <li>
     <strong>BATISTA, Danillo Rafael, LIMA, Bruna Pires (2021). </strong><i>Eleições, Pandemia e Protocolos: Adaptações Institucionais para as eleições presidenciais da Bolívia e do Equador em tempos de Covid-19</i>. <i>Revista Espirales, Volume(5)</i>.
+    <a href="https://doi.org/10.66942/espirales.v5i2.2794" target="_blank">DOI</a>
   </li>
   <li>
     <strong>COSTA LIMA, Marcos; BARBOSA, Victor; ALBUQUERQUE, Tatiane; BATISTA Danillo Rafael. (2020). </strong><i>As Universidades Chinesas e as Relações Internacionais</i>. <i>Revista Brasileira de Políticas Públicas e Internacionais - RPPI, Volume(5)</i>. 
