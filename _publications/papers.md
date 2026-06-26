@@ -10,7 +10,7 @@ author_profile: true
 <ul>
   <li>
     <strong>BATISTA, Danillo Rafael. (2026). </strong><i>Do formal rules matter? De facto autonomy and Electoral Integrity in comparative perspective</i>. <i>Revista Sul-Americana de Ciência Política, 12(1)</i>. 
-    <a href="https://doi.org/10.15210/rsulacp.v12i1.30310](https://periodicos.ufpel.edu.br/index.php/rsulacp/article/view/30310" target="_blank">DOI</a>
+    <a href="[https://doi.org/10.15210/rsulacp.v12i1.30310](https://periodicos.ufpel.edu.br/index.php/rsulacp/article/view/30310](https://periodicos.ufpel.edu.br/index.php/rsulacp/article/view/30310)" target="_blank">DOI</a>
   </li>
   <li>
     <strong>BATISTA, Danillo Rafael. (2024). </strong><i>When Electoral Integrity is at Risk: Democracy, Fraud, and Institutions in Latin America</i>. <i>Revista Uruguaya de Ciencia Política, Volume(33)</i>. 
