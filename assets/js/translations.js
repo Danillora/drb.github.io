@@ -12,8 +12,8 @@ window.TRANSLATIONS = {
     "nav-contact":      "Contact",
 
     /* ── Sidebar ── */
-    "sidebar-bio":      "Political Science PhD student at Federal University of Pernambuco (UFPE)",
-    "sidebar-location": "Recife - PE, Brazil",
+    "sidebar-bio":      "Political Science PhD student at UFPE; Visiting Researcher at Boston University",
+    "sidebar-location": "Boston - MA, USA",
     "sidebar-follow":   "Follow",
 
     /* ── Home page ── */
@@ -26,6 +26,8 @@ window.TRANSLATIONS = {
       <p>Additionally, I collaborate with the <a href="https://x.com/metodosempauta">Métodos em Pauta initiative</a>, which aims to foster discussions on scientific methodology and inferential quality in Social Sciences. I also run <a href="https://brewed-evidence.quarto.pub/home/">Brewed Evidence</a>, a blog where I write about academic things and other interests. The project is still in its early stages.</p>
 
       <p>For more details, you can check my academic CV (Lattes), repositories, and social networks in the menu on the left side of the page.</p>
+
+            <p>Since 2026, I have been a Visiting Researcher at Boston University's Department of Political Science, hosted by Prof. Taylor Boas.</p>
     `,
 
     /* ── Publications page ── */
@@ -63,8 +65,8 @@ window.TRANSLATIONS = {
     "nav-contact":      "Contato",
 
     /* ── Sidebar ── */
-    "sidebar-bio":      "Doutorando em Ciência Política na Universidade Federal de Pernambuco (UFPE)",
-    "sidebar-location": "Recife - PE, Brasil",
+    "sidebar-bio":      "Doutorando em Ciência Política na UFPE; Pesquisador Visitante na Boston University",
+    "sidebar-location": "Boston - MA, EUA",
     "sidebar-follow":   "Seguir",
 
     /* ── Home page ── */
@@ -77,6 +79,8 @@ window.TRANSLATIONS = {
       <p>Também colaboro com a <a href="https://x.com/metodosempauta">iniciativa Métodos em Pauta</a>, que visa fomentar discussões sobre metodologia científica e qualidade inferencial nas Ciências Sociais. Além disso, mantenho o <a href="https://brewed-evidence.quarto.pub/home/">Brewed Evidence</a>, um blog onde escrevo sobre temas acadêmicos e outros interesses. O projeto ainda está em seus estágios iniciais.</p>
 
       <p>Para mais detalhes, consulte meu currículo acadêmico (Lattes), repositórios e redes sociais no menu à esquerda da página.</p>
+
+            <p>Desde 2026, sou Pesquisador Visitante no Departamento de Ciência Política da Boston University, sob orientação do Prof. Taylor Boas.</p>
     `,
 
     /* ── Publications page ── */
