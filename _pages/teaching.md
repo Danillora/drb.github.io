@@ -5,15 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
-- Teaching Assistant in the **Multivariate Data Analysis**
-  - Under the supervision of Professor Flávio Rezende
-  - Federal University of Pernambuco (UFPE)
-  
-- Teaching Assistant in **International Relations Theory I**
-  - Under the guidance of Nayanna Sabiá
-  - Estácio Recife University
- 
-- Teaching Assistant in **International Relations Theory II**
-  - Under the guidance of Thallita Fernanda
-  - Estácio Recife University
+## Teaching Experience
+
+**Teaching Assistant in Multivariate Data Analysis** (50h), 2025
+Federal University of Pernambuco (UFPE)
+Under the supervision of Prof. Flávio da Cunha Rezende
+
+**Teaching Assistant in Theory of International Relations I** (50h), 2019
+Estácio University Center
+Under the supervision of Prof. Nayanna Sabiá

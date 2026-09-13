@@ -3,8 +3,14 @@ main:
   - title: "Publications and Projects"
     url: /publications/
 
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Academic Life"
+    url: /academic-life/
+
   - title: "CV"
     url: /cv/
-    
+
   - title: "Contact"
     url: /contact/
