@@ -12,16 +12,22 @@ redirect_from:
 
 <ul>
   <li><strong>Email:</strong> danillora.batista@gmail.com or danillo.rafael@ufpe.br</li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/danillo-rafael/" target="_blank" rel="noopener">linkedin.com/in/danillo-rafael</a></li>
-  <li><strong>GitHub:</strong> <a href="https://github.com/Danillora" target="_blank" rel="noopener">github.com/Danillora</a></li>
 </ul>
 
-<p>
-  <a id="wa-btn" class="btn btn--large" href="#" role="button"
-     style="background-color:#25D366;color:#fff;border-color:#25D366;">
-    <i class="fab fa-fw fa-whatsapp" aria-hidden="true"></i> Message me on WhatsApp
-  </a>
-</p>
+<style>
+  .wa-link {
+    display: inline-block;
+    padding: 0.3em 0.8em;
+    font-size: 0.85em;
+    color: #128C7E !important;
+    border: 1px solid #128C7E;
+    border-radius: 4px;
+    text-decoration: none !important;
+  }
+  .wa-link:hover { background-color: #128C7E; color: #fff !important; }
+</style>
+
+<p><a id="wa-btn" class="wa-link" href="#" role="button"><i class="fab fa-fw fa-whatsapp" aria-hidden="true"></i> WhatsApp</a></p>
 
 <script>
   // The number is assembled only on click so it never appears in the page
