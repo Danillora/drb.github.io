@@ -64,3 +64,7 @@
     margin-left: 0.5rem;
   }
 }
+
+/* Conteúdo bilíngue: mostra só o bloco do idioma ativo */
+html[lang="pt-BR"] .lang-en { display: none; }
+html:not([lang="pt-BR"]) .lang-pt { display: none; }
