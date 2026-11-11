@@ -20,7 +20,7 @@ redirect_from:
 <h2 data-i18n="cv-visiting">Visiting Research</h2>
 
 * **Visiting PhD Researcher**, Department of Political Science, Boston University
-  + Period: September 2026 -- February 2027
+  + Period: 2026 -- 2027
   + Supervisor: Prof. Taylor Boas
   + Funding: CAPES/PDSE -- PhD Sandwich Program (Brazilian Ministry of Education)
 
