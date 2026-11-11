@@ -41,7 +41,7 @@ window.TRANSLATIONS = {
     "cv-teaching": "Teaching",
     "cv-scholarships": "Scholarships",
     "cv-additional-formation": "Additional Formation",
-    "cv-additional-info": "Additional Information",
+    "cv-additional-info": "Community & Civic Involvement",
     "cv-current-position": "Current Position",
     "cv-previous-position": "Previous Position",
 
@@ -90,7 +90,7 @@ window.TRANSLATIONS = {
     "cv-teaching": "Ensino",
     "cv-scholarships": "Bolsas e Financiamentos",
     "cv-additional-formation": "Formação Complementar",
-    "cv-additional-info": "Informações Adicionais",
+    "cv-additional-info": "Envolvimento Comunitário e Cívico",
     "cv-current-position": "Cargo Atual",
     "cv-previous-position": "Cargo Anterior",
 

@@ -26,6 +26,10 @@ redirect_from:
 
 <h2 data-i18n="cv-work">Work experience</h2>
 
+* **CURA Fellowship 2026/2027**
+  + Period: 2026 -- 2027
+  + Institute on Culture, Religion & World Affairs (CURA), Boston University. Selected fellow in an interdisciplinary research colloquium bringing together graduate students and faculty to workshop original research on religion's role in global and political affairs.
+
 * **Pernambuco State Secretariat of Culture**
   + Period: 2022 -- 2026
   + Researcher and Data Analyst at the Cultural Indicators Observatory, responsible for analyzing survey data, producing statistical reports, and supporting evidence-based cultural policy design.
@@ -117,7 +121,9 @@ redirect_from:
 
 * **Professional Training in Public Policy Evaluation** — Joaquim Nabuco Foundation (FUNDAJ), 2020. Training focused on methods, indicators, and analytical frameworks for the evaluation of public policies.
 
-<h2 data-i18n="cv-additional-info">Additional Information</h2>
+<h2 data-i18n="cv-additional-info">Community &amp; Civic Involvement</h2>
+
+* **International Electoral Observer (2026)** -- Monitored the 2026 Brazilian General Elections for overseas voters in the United States with Transparência Eleitoral Brasil.
 
 * **Coordinator of the 1st Cultural Census of Pernambuco** -- Led the mapping of cultural producers and cultural spaces through the Cultural Indicators Observatory (SECULT-PE).
 
